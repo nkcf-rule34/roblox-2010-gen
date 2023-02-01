@@ -1,5 +1,13 @@
 # Roblox 2010 Geneartor
-Generating Roblox's 2010 accounts (PROXYLESS)
+Easy way to get Roblox 2010 accounts!
 
-Get support here if there is any issue: https://discord.gg/nword ! 
+This may have errors in console but it will work fine.
+
+# Requirements:
+- pip i -r requirements.txt `(or run install.bat)`
+
+# Support
+If you have any issues add me on [Telegram](https://t.me/malychuj)
+ 
+
  
