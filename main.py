@@ -18,9 +18,7 @@ def gen():
     if (int(lastonline) == 2010):
       if (len(username) == 20):
         print(f"{Fore.BLUE} {username}:l0l0l0l:{lastonline}""")
-        open('usernames.txt', 'a').write(f"{username}\n")
-        open('login.txt', 'a').write(f"{username}:l0l0l0l\n")
-        open('lastonlinelogin.txt', 'a').write(f"{username}:l0l0l0l:{lastonline}\n")
+        open('login.txt', 'a').write(f"{username}:l0l0l0l:{lastonline}\n")
   except KeyError:
     pass
 
